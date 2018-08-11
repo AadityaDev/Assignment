@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignement</string>
+    <string name="analytic_text">Data to Analytics</string>
+    <string name="crash_app_text">Crash App</string>
+    <string name="notification_add_to_cart_button">Like</string>
+    <string name="group_name">Group 1</string>
+    <string name="notifications_admin_channel_name">Global channel</string>
+    <string name="notifications_admin_channel_description">Notifications sent from the app admin</string>
+</resources>
